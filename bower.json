@@ -1,6 +1,6 @@
 {
   "name": "bower-mqttws",
-  "version": "0.3.1",
+  "version": "1.0.0",
   "homepage": "http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.javascript.git/tree/src/mqttws31.js",
   "authors": [
     "2lemetry <m2mIO-gister@m2m.io>"
